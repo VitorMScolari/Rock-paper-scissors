@@ -1,1 +1,1 @@
-# Javascript-calculator
+# Javascript-rock-paper-scissors
